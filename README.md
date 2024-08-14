@@ -5,8 +5,6 @@ The repository is organized to provide a clear and reproducible workflow. It inc
 
 Raw Data: The original count matrices from the GEO GSE94464 dataset are stored here. This allows users to trace back to the original data source and compare results or perform alternative analyses if needed.
 
-Processed Data: This folder contains the normalized count matrices and the results from the differential expression analysis. Normalization is a critical step in ensuring that the data is comparable across samples, eliminating biases due to differences in sequencing depth or other technical factors.
-
 Scripts: All R scripts used for the analysis are included in this folder. These scripts are well-documented, with comments explaining each step of the process. Users can run these scripts to reproduce the analysis or modify them to suit different datasets or research questions.
 
 Results: The results folder includes visualizations, figures, and tables that summarize the key findings of the analysis. This may include heatmaps, volcano plots, and other graphical representations that highlight differentially expressed genes and their significance.
