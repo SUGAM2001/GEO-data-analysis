@@ -1,11 +1,23 @@
-# GEO-data-analysis
-This repository contains a comprehensive analysis of the GEO dataset GSE94464, focusing on differential expression analysis and the normalization of count matrices. The primary aim of this project is to visualize gene expression abundance and identify significant changes in gene expression across various conditions within the dataset. This analysis is crucial for understanding the molecular mechanisms and potential biomarkers associated with the conditions studied in GSE94464. More details about GEO data set- https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94464
+<h1>GEO Dataset GSE94464 Analysis</h1>
 
-The repository is organized to provide a clear and reproducible workflow. It includes the following key components:
+<p>This repository offers a comprehensive analysis of the GEO dataset <strong>GSE94464</strong>, focusing on differential expression analysis and normalization of count matrices. The primary goal is to visualize gene expression levels and identify significant changes in gene expression across various conditions within the dataset. This analysis is pivotal in understanding the molecular mechanisms and potential biomarkers associated with the conditions studied in GSE94464.</p>
 
-Raw Data: The original count matrices from the GEO GSE94464 dataset are stored here. This allows users to trace back to the original data source, compare results, or perform alternative analyses if needed.
-Raw data can be downloaded from- https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94464
+<p>More details about the GEO dataset can be found <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94464">here</a>.</p>
 
-Scripts: All R scripts used for the analysis are included in this folder. These scripts are well-documented, with comments explaining each step of the process. Users can run these scripts to reproduce the analysis or modify them to suit different datasets or research questions.
+<h2>Repository Structure</h2>
 
-Results: The results folder includes visualizations, figures, and tables that summarize the key findings of the analysis. This may include heat maps, volcano plots, and other graphical representations highlighting differentially expressed genes and their significance.
+<p>The repository is organized to ensure a clear and reproducible workflow, featuring the following key components:</p>
+
+<ul>
+  <li><strong>Raw Data:</strong><br>
+  This folder contains the original count matrices from the GSE94464 dataset. Users can download the raw data from <a href="https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94464">this link</a> to trace back to the source, compare results, or conduct alternative analyses.</li>
+
+  <li><strong>Scripts:</strong><br>
+  All R scripts used for the analysis are stored here. The scripts are thoroughly documented with comments that explain each step of the process. Users can run these scripts to reproduce the analysis or adapt them for different datasets or research questions.</li>
+
+  <li><strong>Results:</strong><br>
+  The results folder includes visualizations, figures, and tables summarizing the key findings of the analysis. This includes heat maps, volcano plots, and other graphical representations that highlight differentially expressed genes and their significance.</li>
+</ul>
+
+
+
