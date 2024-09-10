@@ -8,7 +8,7 @@ For more information about the GEO dataset, visit [GEO GSE94464](https://www.ncb
 
 - `Data`: This folder contains the original count matrices from the GEO GSE94464 dataset, allowing users to trace back to the original data source, compare results, or conduct alternative analyses. The raw data can be downloaded from [Here](https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE94464).
 
-- `Scripts`: All R scripts used for the analysis are stored in the script folder. Each script is well-documented with comments that explain each step of the process, enabling users to reproduce the analysis or adapt the scripts to other datasets or research questions.
+- `Scripts`: All R scripts used for the analysis are stored in the script folder. Each script is well-documented with comments that explain each step of the process, enabling users to reproduce the analysis or adapt the scripts to other datasets.
 
 - `PLot`: This folder includes visualizations, figures, and tables summarizing the key findings. Visual representations such as heat maps, volcano plots, and other graphical outputs highlight differentially expressed genes and their significance.
 
