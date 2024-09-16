@@ -2,7 +2,7 @@
 
 This repository comprehensively analyzes the GEO dataset `GSE94464`, focusing on differential expression analysis and normalization of count matrices. The primary objective of this project is to visualize gene expression levels and identify significant changes across various conditions within the dataset.
 This analysis offers insights into the molecular mechanisms and potential biomarkers associated with the conditions studied in `GSE94464`.
-For more information about the GEO dataset, visit [GEO GSE94464](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94464).
+For more information about the GEO dataset, visit [GEO-GSE94464](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94464).
 
 ## Repository Structure
 
